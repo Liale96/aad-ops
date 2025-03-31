@@ -1,4 +1,4 @@
-# appkeys usage  
+# appkeys.py usage  
 
 #install dependency  
 pip install cryptography pyjwt requests  
